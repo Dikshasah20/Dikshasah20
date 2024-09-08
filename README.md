@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **3js**
 
-- 💬 Ask me about **JavaScript, Node.js, React, C++, Advance DSA problem**
+- 💬 Ask me about **JavaScript, Node.js, express, React, Java, C++, Advance DSA problem**
 
 - ⚡ Fun fact **I love editing videos**
 

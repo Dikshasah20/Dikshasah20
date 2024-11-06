@@ -69,7 +69,7 @@ if (codeWorking){
             while (codeQuality < perfectCode){
                 codeQuality++;
             }
-        }
+        }- Diksha
 ```
 
 ## Current GitHub Stats 📊
@@ -94,25 +94,5 @@ if (codeWorking){
 [![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/diksha-sah-b4a7201b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm) (https://linkedin.com/in/https://www.linkedin.com/in/diksha-sah-b4a7201b5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SahDiksha5891) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCFD102gR0HgMcTBJtItE2FA) 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Diksha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Diksha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Diksha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Diksha&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Diksha&icon=0&color=7)](https://visitcount.itsvg.in)
 
 

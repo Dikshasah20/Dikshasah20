@@ -86,12 +86,6 @@ if (codeWorking){
 
 ### Thanks for Visiting my GitHub Profile!
 
----
-<p align="center">
-<img src="https://github.com/Dikshasah20/snakeGame.svg">
-</p>
-
-[![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
 
 
 

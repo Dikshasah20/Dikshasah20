@@ -69,7 +69,7 @@ if (codeWorking){
             while (codeQuality < perfectCode){
                 codeQuality++;
             }
-        }- Diksha sah
+        }- Diksha 
 ```
 
 ## Latest Tweet 🐦  

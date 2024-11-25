@@ -73,7 +73,6 @@ if (codeWorking){
 ```
 
 ## Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=VishwaGauravIn&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 > Twitter API pricing changes Killed this tool sadly, but we are trying to find a workaround, let's see.
 
 ### Thanks for Visiting my GitHub Profile!
